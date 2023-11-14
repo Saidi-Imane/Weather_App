@@ -12,11 +12,12 @@ This Weather App is a web application that provides real-time weather informatio
 ## SnapShots
 
 ### Default:
-![image](https://github.com/Saidi-Imane/Weather_App/assets/150747398/bd36d04e-89bf-47bd-a5f8-3c7d2cc844fd)
+![image](https://github.com/Saidi-Imane/Weather_App/assets/150747398/8578d6ac-8706-495b-9f38-407e83b9eaeb)
 ### when you entered any valid city:
 ![image](https://github.com/Saidi-Imane/Weather_App/assets/150747398/2c949934-15c4-4f77-ad6c-7811c97acf8f)
 ### when you enter an invalide city name:
-![image](https://github.com/Saidi-Imane/Weather_App/assets/150747398/8578d6ac-8706-495b-9f38-407e83b9eaeb)
+![image](https://github.com/Saidi-Imane/Weather_App/assets/150747398/bd36d04e-89bf-47bd-a5f8-3c7d2cc844fd)
+
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
